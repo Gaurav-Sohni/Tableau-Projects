@@ -10,7 +10,7 @@ Dashboard :
   4. Pie chart for Gender distribution
   5. Job Classification ,i.e, White Collar, Blue Collar, etc.
 
-Story : 
+Storyline : 
      UK is represented by 54% males, 49% are doing White Collar jobs, majorly aged between 30 to 40 and maintaining Account Balance between 10K to 30K.
      
      
@@ -21,7 +21,7 @@ Dashboard of England :
   4. Pie chart for Gender distribution
   5. Job Classification ,i.e, White Collar, Blue Collar, etc.
 
-Story of England : 
+Storyline of England : 
      England is represented by 51% Females, 70% are doing White Collar jobs, majorly aged between 30 to 35 and maintaining Account Balance between 10K to 35K.
      
      
