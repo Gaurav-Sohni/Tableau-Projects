@@ -1,5 +1,6 @@
 UK Bank data
-    data of people with different salary, age group, gender, job-type and Nationality.
+    
+Data of people with different salary, age group, gender, job-type and Nationality.
     
     
 Dashboard :
