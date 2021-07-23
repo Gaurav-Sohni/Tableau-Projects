@@ -23,3 +23,6 @@ Dashboard of England :
 
 Story of England : 
      England is represented by 51% Females, 70% are doing White Collar jobs, majorly aged between 30 to 35 and maintaining Account Balance between 10K to 35K.
+     
+     
+NOTE : pdf of Entire Workbook is attached as " UK viz ".
