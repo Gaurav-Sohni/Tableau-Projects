@@ -11,3 +11,6 @@ Clusters ( 3 variables ) :
   
 Revenue Distribution using Clusters :
   Size of clusters defines the Total Sum of Revenue 
+  
+  
+NOTE : pdf of Entire Workbook is attached as " Startup viz ".
